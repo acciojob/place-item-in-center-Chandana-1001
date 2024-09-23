@@ -13,12 +13,12 @@
 .item-1
 {
 	justify-content:center;
-	align-content:center;
+	align-items:center;
 	width:100px;
 	height:100px;
 	background-color:red;
 	display:flex;
 	flex-direction:row;
 	padding:20px;
-	text-align:center;
+
 }
